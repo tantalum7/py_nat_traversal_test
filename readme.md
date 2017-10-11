@@ -11,7 +11,7 @@ cliA = Client()
 Get the external ip and port for each client
 ```python
 cliA.external_ip
->>> "11.22.33.44.55"
+>>> "11.22.33.44"
 cliA.external_port
 >>> 123456
 ```
